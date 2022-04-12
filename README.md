@@ -1,2 +1,2 @@
 # pythonProject
- Project for non profit organization in Brazil
+Some coding to study and practice the programming language.
